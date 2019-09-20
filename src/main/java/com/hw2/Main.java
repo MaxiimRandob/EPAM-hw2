@@ -1,5 +1,6 @@
 package com.hw2;
 
+
 import static org.apache.commons.lang3.ArrayUtils.add;
 
 public class Main
